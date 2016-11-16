@@ -2,7 +2,7 @@
 #   Copyright (C) Inria 2016
 #
 #------------------------------------------------------------------------
-#   Project:    Neotrope
+#   Project:    libLinAlg
 #   Created on: Feb 29, 2016
 #   Author:     Vincent KUBICKI <vincent.kubicki@inria.fr>
 #------------------------------------------------------------------------
