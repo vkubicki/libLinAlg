@@ -1,7 +1,7 @@
 libLinAlg
 ==============
 
-__libLinAlg is Copyright (c) 2016 Inria__
+__libLinAlg is Copyright (c) 2016 Inria and distributed as a BSD 3-Clause License__
 
 Build
 -------------
